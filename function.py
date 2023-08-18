@@ -31,13 +31,6 @@ def my_func4():
 
 my_func4()
 
-# The local value (متغیری که در تابع معرفی شده است)
-def my_func5():
-    y = "bahrani"
-    print(y)
-
-my_func5()
-
 def my_func6():
     print(y)
 
